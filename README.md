@@ -5,3 +5,7 @@ The Test cases covered are,
  3. Login as a valid user
  4. Toggle to Dark mode
  5. Execute Java code with error and verify the output
+
+Iniatially download and install node in the machine
+Then Install playwright
+To run the code, use command 'npx playwright test' in terminal
